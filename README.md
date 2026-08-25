@@ -5,11 +5,11 @@
 
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
 
-[![Simular no Tinkercad]()
+[[![Simular no Tinkercad](https://www.tinkercad.com/things/juQrWZKrYsD-aula-de-internet-das-coisas-teste)]
 
 ---
 
-## Enunciado: Vamos ligar o LED!
+## Atividade 1: Vamos ligar o LED!
 
 O projeto vai utilizar um botão como entrada para controlar um LED como saída. Ao pressionar o botão, o Arduino altera o estado do LED — cada clique liga ou desliga, funcionando como um interruptor eletrônico.
 
