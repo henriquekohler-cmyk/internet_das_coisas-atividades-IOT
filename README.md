@@ -1,4 +1,4 @@
-# iot-exemplo-repositorio
+# iot-atividade-1-repositorio
 
 **Discente:** Henrique Jean Köhler 
 **Docente:** Amanda Paul Dull  
