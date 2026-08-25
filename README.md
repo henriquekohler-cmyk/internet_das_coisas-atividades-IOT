@@ -5,7 +5,7 @@
 
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
 
-[[![Simular no Tinkercad](https://www.tinkercad.com/things/juQrWZKrYsD-aula-de-internet-das-coisas-teste)]
+[![Simular no Tinkercad](botao-tinkercad.png)](https://www.tinkercad.com/things/juQrWZKrYsD-aula-de-internet-das-coisas-teste)
 
 ---
 
